@@ -1,6 +1,6 @@
 # Microscopic Parametrizations for Gate Set Tomography Under Colored Phase Noise
 
-This repository contains code supporting the work **"Microscopic Parametrizations for Gate Set Tomography Under Colored Phase Noise"**, available on [arXiv](http://arxiv.org/update.this).
+This repository contains code supporting the work **"Microscopic Parametrizations for Gate Set Tomography Under Colored Phase Noise"**, available on [arXiv](https://arxiv.org/abs/2407.11539).
 
 Overview
 
